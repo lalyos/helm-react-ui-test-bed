@@ -3,4 +3,4 @@ services:
     helm-ui:
         ports:
             - 3000
-        image: lalyos/helm-ui
+        image: ghcr.io/lalyos/helm-ui:v1.0
